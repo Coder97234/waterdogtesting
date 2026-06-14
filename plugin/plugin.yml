@@ -1,0 +1,22 @@
+name: MyProxyPlugin
+main: MyProxyPlugin
+version: 1.0
+author: waterdogtesting
+description: Bedrock proxy helper plugin for WaterdogPE.
+commands:
+  help:
+    description: Shows plugin help.
+  ping:
+    description: Shows ping.
+  server:
+    description: Connects to a configured server.
+  fly:
+    description: Shows a fly message.
+  speed:
+    description: Shows a speed message.
+  hub:
+    description: Connects to the hub server.
+  tps:
+    description: Shows proxy TPS info.
+  players:
+    description: Shows online player count.

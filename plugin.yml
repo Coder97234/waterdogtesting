@@ -1,0 +1,4 @@
+name: MyProxyPlugin
+main: me.myproxy.MyPlugin
+version: 1.0
+author: nightriftz
